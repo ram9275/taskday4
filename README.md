@@ -1,1 +1,3 @@
-# taskday4
+# taskday4 I've learned that logistic regression is different from linear regression because it predicts categories, not continuous values, using the sigmoid function, which converts outputs into probabilities. The precision vs. recall trade-off helps balance false positives and false negatives, while the ROC-AUC curve measures the classifier's ability to distinguish between classes. The confusion matrix breaks down performance into true positives, false positives, true negatives, and false negatives.
+Handling imbalanced classes requires techniques like SMOTE or class weighting, and tuning the decision threshold improves precision or recall based on the task. Logistic regression can also be extended to multi-class problems using One-vs-Rest (OvR) or the softmax function in multinomial classification.
+I've gained hands-on experience applying these concepts and fine-tuning models for better performance
